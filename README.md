@@ -16,6 +16,18 @@
 ### 📁 Jogo do Numero Secreto
 - 🔗 https://github.com/RyanVidalLima/JogoNumeroSecretoAtualizado
 - 📖 Descrição: Projeto inicial de jogo didático para aprender o básico de Programação.
+### 📁 Sorteador de Números Aleatórios
+- 🔗 https://github.com/RyanVidalLima/sorteador-de-numeros.git
+- 📖 Descrição: Projeto de sorteador de números sendo desenvolvido e atualizado.
+### 📁 Aluguel de Jogos Online
+- 🔗 https://github.com/RyanVidalLima/aluguel-de-jogos-de-tabuleiro.git
+- 📖 Descrição: Projeto de Aluguel de Jogos Online em desenvolvimento.
+### 📁 Carrinho de Compras
+- 🔗 https://github.com/RyanVidalLima/carrinho-de-compras.git
+- 📖 Descrição: Projeto de Carrinho de Compras de Eletrônicos.
+### 📁 Compra de Ingressos
+- 🔗 https://github.com/RyanVidalLima/compra-de-ingressos.git
+- 📖 Descrição: Projeto de compra de ingressos para shows.
 
 ## Conecte-se comigo
 <div>
